@@ -1,6 +1,6 @@
 ## **介绍**
 
-- 本仓库是项目[`fas-rs`](https://github.com/shadow3aaa/fas-rs)的插件系统的模板仓库
+- 本仓库是项目[`fas-gt`](https://github.com/yinwanxi/fas-gt)的插件系统的模板仓库
 - 本仓库同时也是一个`magisk/ksu`模块的模板仓库，这是因为`fas-rs`插件推荐以独立模块的形式存在
 - 本仓库源自[`fas-rs-extension`](https://github.com/shadow3aaa/fas-rs-extension-module-template)但那个仓库为模板仓库，所以重新创了个新仓库
 
