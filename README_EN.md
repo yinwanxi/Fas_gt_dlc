@@ -23,7 +23,7 @@
 - The code that the extension is actually called by fas-rs should be all written in [main.lua](main.lua).
 - [main.lua](main.lua) is self-documented and contains instructions on how to write extension scripts.
 - Remember to change module/module.prop to change the module name > module id
-
+- The module has been adapted, or in other words, it is a template. If you need to modify it, just modify the config and other
 - ps: You can check the output of```getprop fas-rs-installed```to confirm if the user has installed `fas-rs`.
 
 ## **FAQ**
