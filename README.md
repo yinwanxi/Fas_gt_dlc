@@ -1,3 +1,8 @@
+# **fas-rs插件模板**
+
+- [English](README_EN.md)
+
+
 ## **介绍**
 
 - 本仓库是项目[`fas-gt`](https://github.com/yinwanxi/fas-gt)的插件系统的模板仓库
