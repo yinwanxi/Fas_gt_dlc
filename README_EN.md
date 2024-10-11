@@ -1,4 +1,4 @@
-# **fas-rs plugin template**# **fas-rs plugin template**
+# **fas-gt-dlc
 
 - [简体中文](README.md)
 
