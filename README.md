@@ -1,4 +1,4 @@
-# **fas-rs插件模板**
+# **fas-gt-dlc**
 
 - [English](README_EN.md)
 
