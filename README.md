@@ -25,7 +25,7 @@
 - 插件实际被fas-rs调用的代码应全部在[main.lua](main.lua)中编写
 - [main.lua](main.lua)是自文档化的，包含了如何编写插件脚本的说明
 - 记得修改module/module.prop来更改模块名 & 模块id
-- 执行```bash ./package.sh```即可打包模块，打包完成后模块位于`output`文件夹
+- 模块已经做好适配等，或者说，其本身就是一个模板，直接修改config和其他即可
 - ps: 可以检查```getprop fas-rs-installed```的输出来确认用户是否安装了`fas-rs`
 
 ## **FAQ**
